@@ -1,0 +1,14 @@
+.cal-table {
+    background-color: var(--secondary-color) !important;
+    color: var(--third-color) !important;
+}
+.cal-table th, .cal-table td {
+    background-color: var(--secondary-color) !important;
+    color: var(--third-color) !important;
+    border-color: var(--third-color) !important;
+}
+.reset-but {
+    color: var(--reset-color);
+    border: 2px solid var(--reset-color);
+    background-color: var(--secondary-color);
+}

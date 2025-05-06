@@ -1,0 +1,17 @@
+form {
+    max-width: 400px;
+  }
+.cal-btn{
+    color: var(--secondary-color);
+    background-color:#1976d2;
+}
+.form-contro{
+  background-color: var(--secondary-color);
+  color: var(--third-color);
+}
+.input-cell
+{
+  background-color: var(--secondary-color) !important;
+  color: var(--third-color) !important;
+}
+  

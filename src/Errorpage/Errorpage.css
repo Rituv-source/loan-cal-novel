@@ -1,0 +1,14 @@
+.errorpage
+{
+    color: var(--third-color);
+}
+.errorpage-but
+{
+    border-color:#1976d2; 
+    background-color: var(--secondary-color);
+    color: #1976d2;
+}
+.errorpage-box
+{
+    padding-top: 20%;
+}
